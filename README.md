@@ -17,4 +17,5 @@ Aqui documento minha evolução desde os fundamentos de Git e Docker até pipeli
 
 ## Aprendizados
 
-[Atualize esta seção a cada aula com seus principais aprendizados]
+- Como inicializar, configurar, criar branchs, realizar merges e commitar um projeto usando o Git.
+- Como criar, configurar, gerar imagens e executar containers com o uso do Docker.
